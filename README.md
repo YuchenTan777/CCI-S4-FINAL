@@ -75,7 +75,9 @@ Feeling the Voice is an initial attempt to target social minorities, for whom so
 I believes that this installation can fill the gap in this area and be first applied to start testing in Shanghai, China, a region where education for children with disabilities is better developed and records their feedback for continuous improvement.
 
 Future work could collect data from users and exhibit the special images they generate, use digital technology to make tangible the special sounds made by deaf-mute children, and advance public works as a means to inspire more compassion and social awareness in urban environments. 
-This research paper illustrates the complete process of Feeling the Voice from concept to generation and provides insightful research on deaf children. The authors wanted the installation to be not just an object but a place with an integrated experience. Communication and play will become part of the daily life of deaf children, and the installation will be a crucial point of activation in the public space, bringing together ordinary children and deaf-mute children.![image](https://user-images.githubusercontent.com/73331906/144572706-9f1636bb-73af-49c3-98d4-39862f26758a.png)
+
+This research paper illustrates the complete process of Feeling the Voice from concept to generation and provides insightful research on deaf children. The authors wanted the installation to be not just an object but a place with an integrated experience. Communication and play will become part of the daily life of deaf children, and the installation will be a crucial point of activation in the public space, bringing together ordinary children and deaf-mute children.
+
 At the same time, it can focus the public's attention on other minority groups in society and make people think about how society should meet their deeper needs besides the basic material.
 
 
