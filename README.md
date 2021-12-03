@@ -84,3 +84,8 @@ At the same time, it can focus the public's attention on other minority groups i
 ## 5. Conclusion
 
 This research paper illustrates the complete process of Feeling the Voice from concept to generation and provides insightful research on deaf children. I want the installation to be not just an object but a place with an integrated experience. Communication and play will become part of the daily life of deaf children, and the installation will be a crucial point of activation in the public space, bringing together ordinary children and deaf-mute children.
+
+Here's my video link: https://youtu.be/yHsiik2iAQM
+
+You can see my whole design process in my blog!😃
+https://tanyuchentyc.wixsite.com/website/blog/categories/20-21-final-project
